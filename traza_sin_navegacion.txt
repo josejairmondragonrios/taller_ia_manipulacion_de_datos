@@ -1,0 +1,910 @@
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2329535479      1056026827
+Paquetes de unidifusi¢n           16817020        26563665
+Paquetes no de unidifusi¢n         1268395           17660
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2329712389      1056177577
+Paquetes de unidifusi¢n           16817470        26564135
+Paquetes no de unidifusi¢n         1269345           17680
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2329813914      1056298277
+Paquetes de unidifusi¢n           16817820        26564520
+Paquetes no de unidifusi¢n         1269805           17680
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2329901689      1056387757
+Paquetes de unidifusi¢n           16818225        26564865
+Paquetes no de unidifusi¢n         1270020           17680
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330027729      1056435742
+Paquetes de unidifusi¢n           16818375        26565020
+Paquetes no de unidifusi¢n         1270225           17680
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330235544      1056471132
+Paquetes de unidifusi¢n           16818635        26565260
+Paquetes no de unidifusi¢n         1271660           17740
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330303209      1056558702
+Paquetes de unidifusi¢n           16819070        26565630
+Paquetes no de unidifusi¢n         1271795           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330364134      1056627372
+Paquetes de unidifusi¢n           16819555        26566040
+Paquetes no de unidifusi¢n         1271905           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330411559      1056645292
+Paquetes de unidifusi¢n           16819745        26566215
+Paquetes no de unidifusi¢n         1272075           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330497084      1056690732
+Paquetes de unidifusi¢n           16819915        26566370
+Paquetes no de unidifusi¢n         1272535           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330566864      1056738522
+Paquetes de unidifusi¢n           16820155        26566580
+Paquetes no de unidifusi¢n         1272920           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330682319      1056865577
+Paquetes de unidifusi¢n           16820645        26567015
+Paquetes no de unidifusi¢n         1273380           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330785799      1056891742
+Paquetes de unidifusi¢n           16820925        26567295
+Paquetes no de unidifusi¢n         1273760           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2330900674      1056957442
+Paquetes de unidifusi¢n           16821160        26567500
+Paquetes no de unidifusi¢n         1274160           17760
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331098794      1056974367
+Paquetes de unidifusi¢n           16821285        26567650
+Paquetes no de unidifusi¢n         1275580           17780
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331180129      1057031497
+Paquetes de unidifusi¢n           16821580        26567910
+Paquetes no de unidifusi¢n         1275885           17780
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331301279      1057078002
+Paquetes de unidifusi¢n           16821875        26568210
+Paquetes no de unidifusi¢n         1276605           17800
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331483294      1057149007
+Paquetes de unidifusi¢n           16822170        26568470
+Paquetes no de unidifusi¢n         1277745           17840
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331599764      1057219297
+Paquetes de unidifusi¢n           16822430        26568720
+Paquetes no de unidifusi¢n         1278445           17860
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331637129      1057244052
+Paquetes de unidifusi¢n           16822705        26568965
+Paquetes no de unidifusi¢n         1278555           17860
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331680734      1057286392
+Paquetes de unidifusi¢n           16822895        26569165
+Paquetes no de unidifusi¢n         1278725           17860
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331821179      1057303267
+Paquetes de unidifusi¢n           16823095        26569350
+Paquetes no de unidifusi¢n         1279580           17880
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2331970669      1057365987
+Paquetes de unidifusi¢n           16823310        26569600
+Paquetes no de unidifusi¢n         1280540           17900
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332121584      1068338642
+Paquetes de unidifusi¢n           16825065        26577440
+Paquetes no de unidifusi¢n         1280820           17900
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332261079      1068373052
+Paquetes de unidifusi¢n           16825300        26577700
+Paquetes no de unidifusi¢n         1281650           17920
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332353949      1068445762
+Paquetes de unidifusi¢n           16825630        26578000
+Paquetes no de unidifusi¢n         1282055           17920
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332403914      1068479432
+Paquetes de unidifusi¢n           16825765        26578135
+Paquetes no de unidifusi¢n         1282290           17920
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332544459      1068513917
+Paquetes de unidifusi¢n           16825965        26578300
+Paquetes no de unidifusi¢n         1283125           17920
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332655014      1068556537
+Paquetes de unidifusi¢n           16826120        26578460
+Paquetes no de unidifusi¢n         1283810           17920
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332737209      1068623687
+Paquetes de unidifusi¢n           16826345        26578690
+Paquetes no de unidifusi¢n         1284045           17940
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2332802279      1068657377
+Paquetes de unidifusi¢n           16826595        26578910
+Paquetes no de unidifusi¢n         1284220           17960
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333002914      1068720507
+Paquetes de unidifusi¢n           16826790        26579120
+Paquetes no de unidifusi¢n         1285710           18000
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333109714      1068744022
+Paquetes de unidifusi¢n           16826960        26579265
+Paquetes no de unidifusi¢n         1286490           18000
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333176789      1068758297
+Paquetes de unidifusi¢n           16827100        26579395
+Paquetes no de unidifusi¢n         1286850           18000
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333376309      1068773757
+Paquetes de unidifusi¢n           16827220        26579530
+Paquetes no de unidifusi¢n         1288340           18040
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333409759      1068811357
+Paquetes de unidifusi¢n           16827380        26579675
+Paquetes no de unidifusi¢n         1288445           18040
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333579159      1068869207
+Paquetes de unidifusi¢n           16827660        26579960
+Paquetes no de unidifusi¢n         1289490           18060
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333824504      1068880927
+Paquetes de unidifusi¢n           16827730        26580040
+Paquetes no de unidifusi¢n         1291440           18100
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333883859      1068902262
+Paquetes de unidifusi¢n           16827880        26580170
+Paquetes no de unidifusi¢n         1291780           18100
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333941189      1068938722
+Paquetes de unidifusi¢n           16828070        26580355
+Paquetes no de unidifusi¢n         1291945           18100
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2333999574      1068964602
+Paquetes de unidifusi¢n           16828195        26580490
+Paquetes no de unidifusi¢n         1292035           18100
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334202674      1069024602
+Paquetes de unidifusi¢n           16828420        26580705
+Paquetes no de unidifusi¢n         1293435           18160
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334422549      1069081987
+Paquetes de unidifusi¢n           16828705        26580985
+Paquetes no de unidifusi¢n         1294880           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334520529      1069118452
+Paquetes de unidifusi¢n           16828945        26581220
+Paquetes no de unidifusi¢n         1295500           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334559169      1069128382
+Paquetes de unidifusi¢n           16829040        26581300
+Paquetes no de unidifusi¢n         1295725           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334604844      1069135052
+Paquetes de unidifusi¢n           16829120        26581385
+Paquetes no de unidifusi¢n         1295945           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334682689      1074613412
+Paquetes de unidifusi¢n           16829760        26585320
+Paquetes no de unidifusi¢n         1296175           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334719844      1074701442
+Paquetes de unidifusi¢n           16830000        26585545
+Paquetes no de unidifusi¢n         1296265           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2334793214      1074749852
+Paquetes de unidifusi¢n           16830305        26585835
+Paquetes no de unidifusi¢n         1296515           18220
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335035529      1074761942
+Paquetes de unidifusi¢n           16830360        26585915
+Paquetes no de unidifusi¢n         1298125           18260
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335100119      1074780652
+Paquetes de unidifusi¢n           16830515        26586055
+Paquetes no de unidifusi¢n         1298510           18265
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335223129      1074791387
+Paquetes de unidifusi¢n           16830630        26586165
+Paquetes no de unidifusi¢n         1299330           18265
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335368739      1074801242
+Paquetes de unidifusi¢n           16830700        26586260
+Paquetes no de unidifusi¢n         1300475           18285
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335493934      1074818262
+Paquetes de unidifusi¢n           16830775        26586335
+Paquetes no de unidifusi¢n         1301410           18305
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335548604      1074843497
+Paquetes de unidifusi¢n           16831000        26586540
+Paquetes no de unidifusi¢n         1301595           18325
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335609144      1074860287
+Paquetes de unidifusi¢n           16831140        26586690
+Paquetes no de unidifusi¢n         1301760           18325
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335641634      1074873487
+Paquetes de unidifusi¢n           16831255        26586790
+Paquetes no de unidifusi¢n         1301870           18325
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335718999      1074905752
+Paquetes de unidifusi¢n           16831510        26587000
+Paquetes no de unidifusi¢n         1302135           18325
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2335932114      1074981307
+Paquetes de unidifusi¢n           16831830        26587295
+Paquetes no de unidifusi¢n         1302935           18345
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336115574      1075077657
+Paquetes de unidifusi¢n           16832120        26587545
+Paquetes no de unidifusi¢n         1304020           18365
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336260189      1075146177
+Paquetes de unidifusi¢n           16832455        26587845
+Paquetes no de unidifusi¢n         1304805           18365
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336338654      1075153292
+Paquetes de unidifusi¢n           16832535        26587915
+Paquetes no de unidifusi¢n         1305275           18365
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336390409      1075172957
+Paquetes de unidifusi¢n           16832670        26588055
+Paquetes no de unidifusi¢n         1305420           18365
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336428574      1075177062
+Paquetes de unidifusi¢n           16832725        26588100
+Paquetes no de unidifusi¢n         1305610           18365
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336541254      1075188887
+Paquetes de unidifusi¢n           16832820        26588210
+Paquetes no de unidifusi¢n         1306470           18385
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336617179      1075218117
+Paquetes de unidifusi¢n           16833010        26588370
+Paquetes no de unidifusi¢n         1306865           18405
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336829174      1075289227
+Paquetes de unidifusi¢n           16833250        26588630
+Paquetes no de unidifusi¢n         1308280           18465
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336855039      1075299192
+Paquetes de unidifusi¢n           16833375        26588765
+Paquetes no de unidifusi¢n         1308395           18465
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336887204      1075313907
+Paquetes de unidifusi¢n           16833525        26588890
+Paquetes no de unidifusi¢n         1308500           18465
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2336942314      1075321817
+Paquetes de unidifusi¢n           16833625        26588985
+Paquetes no de unidifusi¢n         1308740           18465
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337020204      1075354977
+Paquetes de unidifusi¢n           16833750        26589105
+Paquetes no de unidifusi¢n         1309205           18465
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337147769      1075395072
+Paquetes de unidifusi¢n           16833925        26589275
+Paquetes no de unidifusi¢n         1309980           18485
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337324414      1075415857
+Paquetes de unidifusi¢n           16834090        26589440
+Paquetes no de unidifusi¢n         1311175           18505
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337553259      1075438542
+Paquetes de unidifusi¢n           16834260        26589615
+Paquetes no de unidifusi¢n         1312875           18555
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337735728      1075505307
+Paquetes de unidifusi¢n           16834691        26590030
+Paquetes no de unidifusi¢n         1313710           18560
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337797324      1075568772
+Paquetes de unidifusi¢n           16834915        26590230
+Paquetes no de unidifusi¢n         1313865           18560
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337875309      1075602662
+Paquetes de unidifusi¢n           16835120        26590420
+Paquetes no de unidifusi¢n         1313970           18560
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337937144      1075716792
+Paquetes de unidifusi¢n           16835340        26590630
+Paquetes no de unidifusi¢n         1314145           18580
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2337998944      1075797192
+Paquetes de unidifusi¢n           16835590        26590855
+Paquetes no de unidifusi¢n         1314350           18600
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338173149      1075976712
+Paquetes de unidifusi¢n           16836050        26591335
+Paquetes no de unidifusi¢n         1314480           18600
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338254284      1076022552
+Paquetes de unidifusi¢n           16836360        26591630
+Paquetes no de unidifusi¢n         1314810           18600
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338344504      1076028672
+Paquetes de unidifusi¢n           16836400        26591690
+Paquetes no de unidifusi¢n         1315450           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338391734      1076047762
+Paquetes de unidifusi¢n           16836575        26591850
+Paquetes no de unidifusi¢n         1315635           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338460234      1076063682
+Paquetes de unidifusi¢n           16836695        26591980
+Paquetes no de unidifusi¢n         1316045           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338522799      1076083282
+Paquetes de unidifusi¢n           16836905        26592170
+Paquetes no de unidifusi¢n         1316255           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338560529      1076088732
+Paquetes de unidifusi¢n           16836960        26592240
+Paquetes no de unidifusi¢n         1316485           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338621864      1076128272
+Paquetes de unidifusi¢n           16837235        26592505
+Paquetes no de unidifusi¢n         1316605           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338666424      1076146067
+Paquetes de unidifusi¢n           16837385        26592640
+Paquetes no de unidifusi¢n         1316770           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338693509      1076153087
+Paquetes de unidifusi¢n           16837470        26592735
+Paquetes no de unidifusi¢n         1316950           18610
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338805559      1076217137
+Paquetes de unidifusi¢n           16837625        26592890
+Paquetes no de unidifusi¢n         1317690           18650
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
+Estad¡sticas de interfaz
+
+                                 Recibidos        Enviados
+
+Bytes                           2338898689      1076269267
+Paquetes de unidifusi¢n           16837905        26593135
+Paquetes no de unidifusi¢n         1318125           18670
+Descartados                          21665               0
+Errores                                  0               0
+Protocolos desconocidos                  0
